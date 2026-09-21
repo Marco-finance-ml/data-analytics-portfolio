@@ -32,6 +32,19 @@ procurement payment processes.
 - Interactive Pivot Tables and timelines
 - Operational KPI dashboard
 
+IMAGE 2 
+
+<img width="1917" height="1067" alt="Captura de pantalla 2026-09-20 185823" src="https://github.com/user-attachments/assets/cf598efe-4f10-4548-b4b0-2a48f367823a" />
+
+
+
+Se ha elaborado (con una base datos artificial, pues por normativo no pueda dar información ni de los especialistas ni de los locadores) una base de datos de seguimientos de pagos contractuales. En esta data se ha realizado la respectiva limpieza (pues se heredó una base datos ineficiente) Se aplicó elementos para aumentar la facilidad y rapidez de la productividad en el llenado de información en el seguimiento de expedientes: checkbox, listado de nombres, listas desplegables. Así como; también, se ha procurado mejorar la fidelidad de los datos estableciendo Criterios de errores de tipo fechas equivocadas por ser imposibles, Montos ejecutados que superan los montos totales de cada orden, orden con dos siaf, etc. 
+
+
+
+
+
+
 [View Project →](#)
 
 ---
