@@ -2,107 +2,105 @@
 
 **Data Analyst | Power BI • SQL • Python • Excel**
 
-Welcome to my Data Analytics portfolio.
+Economics graduate with professional experience in operational, financial,
+and risk analytics. I build data solutions focused on data quality,
+performance monitoring, automation, and business decision-making.
 
-I am an Economics graduate with professional experience in operational,
-financial, and risk analytics. My work focuses on transforming raw operational
-data into reliable datasets, performance indicators, dashboards, and
-actionable business insights.
-
-This portfolio contains selected projects based on real analytical workflows
-I have developed professionally. Where professional projects are recreated,
-synthetic data is used to protect confidential information.
+> Projects are based on analytical workflows developed in professional
+> environments. Synthetic data is used where necessary to protect
+> confidential information.
 
 ---
 
 ## Featured Projects
 
-### 1. Procurement Payment & Productivity Analytics
+### 01. Procurement Payment & Productivity Analytics
+
 **Excel | VBA | Pivot Tables | Data Quality | Operational Analytics**
 
-Reconstruction of an operational analytics solution developed to monitor
-procurement payment processes.
+Synthetic reconstruction of a procurement payment monitoring solution developed
+to improve data quality, automate validation controls, and analyze operational
+performance.
 
-**Key features**
-- Payment and procurement tracking
-- Automated data-quality validation
-- Detection of inconsistent dates, duplicate identifiers and invalid records
+### Dashboard Preview
+
+**[HERE IMAGE 1 — EXCEL DASHBOARD]**
+
+Suggested image:
+- KPI cards
+- Productivity by specialist
+- Monthly processing trend
+- Workload distribution
+- Timeline / slicers
+
+**Highlights**
+- Automated data-quality and business-rule validation
+- Payment and processing-time monitoring
 - Specialist productivity analysis
-- Processing-time analysis
-- Interactive Pivot Tables and timelines
-- Operational KPI dashboard
+- Interactive Pivot Tables and operational KPIs
 
-IMAGE 2 
-
-<img width="1917" height="1067" alt="Captura de pantalla 2026-09-20 185823" src="https://github.com/user-attachments/assets/cf598efe-4f10-4548-b4b0-2a48f367823a" />
-
-
-
-Se ha elaborado (con una base datos artificial, pues por normativo no pueda dar información ni de los especialistas ni de los locadores) una base de datos de seguimientos de pagos contractuales. En esta data se ha realizado la respectiva limpieza (pues se heredó una base datos ineficiente) Se aplicó elementos para aumentar la facilidad y rapidez de la productividad en el llenado de información en el seguimiento de expedientes: checkbox, listado de nombres, listas desplegables. Así como; también, se ha procurado mejorar la fidelidad de los datos estableciendo Criterios de errores de tipo fechas equivocadas por ser imposibles, Montos ejecutados que superan los montos totales de cada orden, orden con dos siaf, etc. 
-
-
-
-
-
-
-[View Project →](#)
+📊 **[View Full Project →](#)**
 
 ---
 
-### 2. Operations & Inventory Analytics Dashboard
-**Power BI | Power Query | DAX | Data Visualization**
+### 02. Operations & Inventory Analytics Dashboard
 
-Interactive business intelligence solution for analyzing operational and
-inventory information.
+**Power BI | Power Query | DAX | KPI Development | Data Visualization**
 
-**Key features**
-- Data transformation and modeling
-- Inventory monitoring
-- Operational performance KPIs
-- Productivity analysis
-- Interactive filters and drill-down analysis
-- Management dashboard
+Business intelligence solution designed to transform operational and inventory
+data into interactive management information and performance indicators.
 
-[View Project →](#)
+### Dashboard Preview
+
+**[HERE IMAGE 2 — POWER BI DASHBOARD]**
+
+Suggested image:
+- Main Power BI dashboard
+- Inventory KPIs
+- Operational performance
+- Filters / slicers
+- Workload or technician productivity
+
+**Highlights**
+- Data cleaning and transformation
+- Operational and inventory KPIs
+- Productivity and workload monitoring
+- Interactive Power BI dashboard
+
+📊 **[View Full Project →](#)**
 
 ---
 
-### 3. Digital Lending & Credit Risk Analysis
+### 03. Digital Lending & Credit Risk Analysis
+
 **Python | Pandas | Statistics | Machine Learning | Financial Analytics**
 
-Financial analytics project focused on understanding borrower behavior,
-repayment performance and credit risk in a digital lending environment.
+Financial analytics project focused on borrower behavior, repayment performance,
+delinquency patterns, and credit-risk analysis in a digital lending environment.
 
-**Key features**
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Borrower segmentation
-- Delinquency and repayment analysis
-- Statistical analysis
-- Credit-risk modeling
-- Business-oriented interpretation of results
+### Analysis Preview
 
-[View Project →](#)
+**[HERE IMAGE 3 — PYTHON / FINANCIAL ANALYSIS]**
+
+Suggested final image:
+- Delinquency rate by borrower segment
+- Loan performance visualization
+- Risk distribution
+- One important predictive-model result
+
+**Highlights**
+- Data cleaning and exploratory analysis
+- Borrower and repayment behavior analysis
+- Delinquency and portfolio-risk analysis
+- Predictive modeling with business interpretation
+
+🐍 **[View Full Project →](#)**
 
 ---
 
-## Technical Skills
+## Technical Stack
 
 **Data Analysis:** Python • SQL • Advanced Excel  
-**Business Intelligence:** Power BI • Power Query • DAX  
+**Business Intelligence:** Power BI • Power Query • Pivot Tables  
 **Automation:** VBA / Macros  
 **Analytics:** Data Cleaning • KPI Development • Statistical Analysis • Machine Learning
-
----
-
-## About Me
-
-Economics graduate with experience analyzing large datasets and developing
-data-driven solutions for operational, financial and risk-related problems.
-
-My professional experience includes public-sector operations analytics,
-procurement and payment monitoring, inventory analysis, digital lending,
-collections and credit-risk analytics.
-
-📍 Lima, Peru  
-💼 Open to Data Analyst / Business Intelligence opportunities
