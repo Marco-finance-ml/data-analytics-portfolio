@@ -1,5 +1,6 @@
 
 
+
 # Marco Gonzales | Data Analytics Portfolio
 
 **Data Analyst | Power BI • SQL • Python • Excel**
@@ -54,7 +55,7 @@ data into interactive management information and performance indicators.
 
 ### Dashboard Preview
 
-<img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_30_08" src="https://github.com/user-attachments/assets/390dc18d-1fac-4688-b944-f6410136a0d1" /><img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_36_12" src="https://github.com/user-attachments/assets/ba84db7d-d82d-4e7b-bb89-937c573fd123" />
+<img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_25_32" src="https://github.com/user-attachments/assets/22d18893-512d-4da3-9c46-8eaf4213c84b" />
 
 
 Suggested image:
@@ -83,7 +84,7 @@ delinquency patterns, and credit-risk analysis in a digital lending environment.
 
 ### Analysis Preview
 
-**[HERE IMAGE 3 — PYTHON / FINANCIAL ANALYSIS]**
+<img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_30_08" src="https://github.com/user-attachments/assets/390dc18d-1fac-4688-b944-f6410136a0d1" /><img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_36_12" src="https://github.com/user-attachments/assets/ba84db7d-d82d-4e7b-bb89-937c573fd123" />
 
 Suggested final image:
 - Delinquency rate by borrower segment
