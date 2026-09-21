@@ -84,7 +84,7 @@ delinquency patterns, and credit-risk analysis in a digital lending environment.
 
 ### Analysis Preview
 
-<img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_30_08" src="https://github.com/user-attachments/assets/390dc18d-1fac-4688-b944-f6410136a0d1" /><img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_36_12" src="https://github.com/user-attachments/assets/ba84db7d-d82d-4e7b-bb89-937c573fd123" />
+<img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_30_08" src="https://github.com/user-attachments/assets/390dc18d-1fac-4688-b944-f6410136a0d1" />
 
 Suggested final image:
 - Delinquency rate by borrower segment
