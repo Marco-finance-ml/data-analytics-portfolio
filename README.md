@@ -1,3 +1,4 @@
+<img width="1384" height="920" alt="proyecto_01_dashboard_adecuado_final_preview" src="https://github.com/user-attachments/assets/ba76b7cf-d912-4862-975f-e79a0558ce69" />
 # Marco Gonzales | Data Analytics Portfolio
 
 **Data Analyst | Power BI • SQL • Python • Excel**
@@ -24,7 +25,7 @@ performance.
 
 ### Dashboard Preview
 
-**[HERE IMAGE 1 — EXCEL DASHBOARD]**
+<img width="1384" height="920" alt="proyecto_01_dashboard_adecuado_final_preview" src="https://github.com/user-attachments/assets/ba76b7cf-d912-4862-975f-e79a0558ce69" />
 
 Suggested image:
 - KPI cards
