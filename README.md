@@ -1,110 +1,112 @@
 
 
 
-# Marco Gonzales | Data Analytics Portfolio
+# Marco Gonzales | Portafolio de Análisis de Datos
 
-**Data Analyst | Power BI • SQL • Python • Excel**
+**Analista de Datos | Power BI • SQL • Python • Excel**
 
-Economics graduate with professional experience in operational, financial,
-and risk analytics. I build data solutions focused on data quality,
-performance monitoring, automation, and business decision-making.
+Bachiller en Economía con experiencia profesional en analítica operativa,
+financiera y de riesgos. Desarrollo soluciones de datos enfocadas en la calidad
+de la información, el monitoreo del desempeño, la automatización y la toma de
+decisiones empresariales.
 
-> Projects are based on analytical workflows developed in professional
-> environments. Synthetic data is used where necessary to protect
-> confidential information.
+> Los proyectos están basados en flujos de trabajo analíticos desarrollados en
+> entornos profesionales. Se utilizan datos sintéticos cuando es necesario para
+> proteger información confidencial.
 
 ---
 
-## Featured Projects
+## Proyectos Destacados
 
-### 01. Procurement Payment & Productivity Analytics
+### 01. Analítica de Pagos y Productividad en Abastecimiento
 
-**Excel | VBA | Pivot Tables | Data Quality | Operational Analytics**
+**Excel | VBA | Tablas Dinámicas | Calidad de Datos | Analítica Operativa**
 
-Synthetic reconstruction of a procurement payment monitoring solution developed
-to improve data quality, automate validation controls, and analyze operational
-performance.
+Reconstrucción sintética de una solución de seguimiento de pagos de abastecimiento,
+desarrollada para mejorar la calidad de los datos, automatizar controles de
+validación y analizar el desempeño operativo.
 
-### Dashboard Preview
+### Vista Previa del Dashboard
 
 <img width="1384" height="920" alt="proyecto_01_dashboard_adecuado_final_preview" src="https://github.com/user-attachments/assets/ba76b7cf-d912-4862-975f-e79a0558ce69" />
 
-Suggested image:
-- KPI cards
-- Productivity by specialist
-- Monthly processing trend
-- Workload distribution
-- Timeline / slicers
+Imagen sugerida:
+- Tarjetas KPI
+- Productividad por especialista
+- Tendencia mensual de procesamiento
+- Distribución de carga de trabajo
+- Línea de tiempo / segmentadores
 
-**Highlights**
-- Automated data-quality and business-rule validation
-- Payment and processing-time monitoring
-- Specialist productivity analysis
-- Interactive Pivot Tables and operational KPIs
+**Aspectos Destacados**
+- Automatización de controles de calidad de datos y reglas de negocio
+- Seguimiento de pagos y tiempos de procesamiento
+- Análisis de productividad por especialista
+- Tablas dinámicas interactivas e indicadores operativos
 
-📊 **[View Full Project →](#)**
+📊 **[Ver Proyecto Completo →](#)**
 
 ---
 
-### 02. Operations & Inventory Analytics Dashboard
+### 02. Dashboard de Analítica Operativa e Inventarios
 
-**Power BI | Power Query | DAX | KPI Development | Data Visualization**
+**Power BI | Power Query | DAX | Desarrollo de KPI | Visualización de Datos**
 
-Business intelligence solution designed to transform operational and inventory
-data into interactive management information and performance indicators.
+Solución de inteligencia de negocios diseñada para transformar datos operativos
+y de inventarios en información interactiva de gestión e indicadores de desempeño.
 
-### Dashboard Preview
+### Vista Previa del Dashboard
 
 <img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_25_32" src="https://github.com/user-attachments/assets/22d18893-512d-4da3-9c46-8eaf4213c84b" />
 
 
-Suggested image:
-- Main Power BI dashboard
-- Inventory KPIs
-- Operational performance
-- Filters / slicers
-- Workload or technician productivity
+Imagen sugerida:
+- Dashboard principal de Power BI
+- KPI de inventarios
+- Desempeño operativo
+- Filtros / segmentadores
+- Carga de trabajo o productividad del personal
 
-**Highlights**
-- Data cleaning and transformation
-- Operational and inventory KPIs
-- Productivity and workload monitoring
-- Interactive Power BI dashboard
+**Aspectos Destacados**
+- Limpieza y transformación de datos
+- KPI operativos y de inventarios
+- Seguimiento de productividad y carga de trabajo
+- Dashboard interactivo en Power BI
 
-📊 **[View Full Project →](#)**
+📊 **[Ver Proyecto Completo →](#)**
 
 ---
 
-### 03. Digital Lending & Credit Risk Analysis
+### 03. Análisis de Préstamos Digitales y Riesgo Crediticio
 
-**Python | Pandas | Statistics | Machine Learning | Financial Analytics**
+**Python | Pandas | Estadística | Machine Learning | Analítica Financiera**
 
-Financial analytics project focused on borrower behavior, repayment performance,
-delinquency patterns, and credit-risk analysis in a digital lending environment.
+Proyecto de analítica financiera enfocado en el comportamiento de los prestatarios,
+desempeño de pagos, patrones de morosidad y análisis de riesgo crediticio en un
+entorno de préstamos digitales.
 
-### Analysis Preview
+### Vista Previa del Análisis
 
 <img width="1672" height="941" alt="ChatGPT Image 20 sept 2026, 22_30_08" src="https://github.com/user-attachments/assets/390dc18d-1fac-4688-b944-f6410136a0d1" />
 
-Suggested final image:
-- Delinquency rate by borrower segment
-- Loan performance visualization
-- Risk distribution
-- One important predictive-model result
+Imagen final sugerida:
+- Tasa de morosidad por segmento de prestatario
+- Visualización del desempeño de préstamos
+- Distribución del riesgo
+- Un resultado importante del modelo predictivo
 
-**Highlights**
-- Data cleaning and exploratory analysis
-- Borrower and repayment behavior analysis
-- Delinquency and portfolio-risk analysis
-- Predictive modeling with business interpretation
+**Aspectos Destacados**
+- Limpieza de datos y análisis exploratorio
+- Análisis del comportamiento de prestatarios y pagos
+- Análisis de morosidad y riesgo de cartera
+- Modelamiento predictivo con interpretación de negocio
 
-🐍 **[View Full Project →](#)**
+🐍 **[Ver Proyecto Completo →](#)**
 
 ---
 
-## Technical Stack
+## Stack Técnico
 
-**Data Analysis:** Python • SQL • Advanced Excel  
+**Análisis de Datos:** Python • SQL • Excel Avanzado 
 **Business Intelligence:** Power BI • Power Query • Pivot Tables  
 **Automation:** VBA / Macros  
 **Analytics:** Data Cleaning • KPI Development • Statistical Analysis • Machine Learning
