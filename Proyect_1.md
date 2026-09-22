@@ -2,7 +2,8 @@
 
 **Excel | VBA | Pivot Tables | Data Quality | Operational Analytics**
 
-[IMAGEN PRINCIPAL DEL DASHBOARD]
+<img width="1384" height="920" alt="Portada_proyecto_!" src="https://github.com/user-attachments/assets/6c0ea611-4b2a-47ba-b94d-52a299fc8e8f" />
+
 
 ## Contexto
 
