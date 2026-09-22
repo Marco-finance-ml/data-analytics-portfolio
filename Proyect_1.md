@@ -1,3 +1,4 @@
+
 # Proyecto 01 | Procurement Payment & Productivity Analytics
 
 **Excel | VBA | Pivot Tables | Data Quality | Operational Analytics**
@@ -32,7 +33,7 @@ El seguimiento manual dificultaba responder rápidamente preguntas como:
 - ¿Dónde se concentran los retrasos?
 - ¿Cuál es el avance financiero del proceso?
 
-[IMAGEN DE LA BASE DE DATOS]
+<img width="1851" height="773" alt="Captura de pantalla 2026-09-22 013240" src="https://github.com/user-attachments/assets/0098cb6b-145a-4bab-9bd3-d075b14dc0d5" />
 
 ---
 
