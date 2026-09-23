@@ -39,7 +39,7 @@ Suggested image:
 - Specialist productivity analysis
 - Interactive Pivot Tables and operational KPIs
 
-📊 **[View Full Project →](#)**
+📊 **[View Full Project →](https://github.com/Marco-finance-ml/data-analytics-portfolio/blob/main/Project_1.md)**
 
 ---
 
