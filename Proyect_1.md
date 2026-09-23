@@ -1,4 +1,5 @@
 
+
 # Proyecto 01 | Procurement Payment & Productivity Analytics
 
 **Excel | VBA | Pivot Tables | Data Quality | Operational Analytics**
@@ -41,6 +42,7 @@ El seguimiento manual dificultaba responder rápidamente preguntas como:
 
 El proyecto transformó una base utilizada principalmente para seguimiento
 administrativo en una fuente estructurada para análisis.
+<img width="1536" height="1024" alt="vba_github" src="https://github.com/user-attachments/assets/87f0cb2c-57a5-460d-b9e2-b3b2b1596c23" />
 
 El flujo desarrollado fue:
 
@@ -50,7 +52,7 @@ Se implementaron controles para detectar duplicados, campos incompletos,
 inconsistencias en fechas y montos, así como reglas de negocio para validar
 el estado de los registros.
 
-[IMAGEN DE CONTROLES / VBA]
+<img width="1536" height="1024" alt="vba_github" src="https://github.com/user-attachments/assets/8837b317-9103-4a65-bb63-aaf79156f094" />
 
 ---
 
@@ -62,9 +64,6 @@ asignaciones, derivaciones y productividad por especialista.
 Las tablas dinámicas permitieron explorar la información por periodo,
 responsable y estado del proceso.
 
-[IMAGEN PRODUCTIVIDAD]
-
----
 
 ## Seguimiento de pagos
 
@@ -72,7 +71,7 @@ El análisis permitió monitorear el avance de los expedientes a través de
 diferentes etapas del proceso y consolidar indicadores financieros asociados
 a montos certificados, devengados y pendientes.
 
-[IMAGEN KPI / PAGOS]
+<img width="1298" height="641" alt="Captura de pantalla 2026-09-23 060417" src="https://github.com/user-attachments/assets/1917d5e9-3b65-430a-b243-1b6a94728550" />
 
 ---
 
