@@ -70,8 +70,6 @@ El análisis permitió monitorear el avance de los expedientes a través de
 diferentes etapas del proceso y consolidar indicadores financieros asociados
 a montos certificados, devengados y pendientes.
 
-<img width="1298" height="641" alt="Captura de pantalla 2026-09-23 060417" src="https://github.com/user-attachments/assets/1917d5e9-3b65-430a-b243-1b6a94728550" />
-
 ---
 
 ## Dashboard
@@ -87,7 +85,7 @@ El dashboard resume los principales indicadores operativos:
 - Registros observados
 - Penalidades y controles
 
-[IMAGEN DASHBOARD COMPLETO]
+<img width="1298" height="641" alt="Captura de pantalla 2026-09-23 060417" src="https://github.com/user-attachments/assets/1917d5e9-3b65-430a-b243-1b6a94728550" />
 
 ---
 
