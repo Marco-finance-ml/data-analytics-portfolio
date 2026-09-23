@@ -42,7 +42,6 @@ El seguimiento manual dificultaba responder rápidamente preguntas como:
 
 El proyecto transformó una base utilizada principalmente para seguimiento
 administrativo en una fuente estructurada para análisis.
-<img width="1536" height="1024" alt="vba_github" src="https://github.com/user-attachments/assets/87f0cb2c-57a5-460d-b9e2-b3b2b1596c23" />
 
 El flujo desarrollado fue:
 
