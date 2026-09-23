@@ -1,4 +1,5 @@
 
+
 # Project 01 | Procurement Payment & Productivity Analytics
 
 **Excel | VBA | Pivot Tables | Data Quality | Operational Analytics**
@@ -41,8 +42,7 @@ Operational Data → Validation → Cleaning → Automation → Analysis → KPI
 
 Controls were implemented to detect duplicates, incomplete fields, inconsistencies in dates and amounts, as well as business rules to validate record statuses.
 
-<img width="1536" height="1024" alt="vba_github" src="https://github.com/user-attachments/assets/8837b317-9103-4a65-bb63-aaf79156f094" />
-
+<img width="1536" height="1024" alt="VBA_INGLES" src="https://github.com/user-attachments/assets/e66fccb4-efc6-4b5c-8111-27630eca0413" />
 ---
 
 ## Productivity Analysis
