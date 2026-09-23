@@ -70,8 +70,7 @@ The dashboard summarizes the main operational indicators:
 * Flagged records
 * Penalties and control indicators
 
-<img width="1298" height="641" alt="Screenshot_2026-09-23_060417" src="https://github.com/user-attachments/assets/1917d5e9-3b65-430a-b243-1b6a94728550" />
-
+<img width="1740" height="904" alt="dashboard_ingles" src="https://github.com/user-attachments/assets/934ddc65-d687-4292-9d7e-bfdf4dfd175f" />
 ---
 
 ## Key Findings
