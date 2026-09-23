@@ -40,7 +40,7 @@ Imagen sugerida:
 - Análisis de productividad por especialista
 - Tablas dinámicas interactivas e indicadores operativos
 
-📊 **[Ver Proyecto Completo →](#)**
+📊 **[Ver Proyecto Completo →](https://github.com/Marco-finance-ml/data-analytics-portfolio/blob/main/Proyecto_1.md)**
 
 ---
 
