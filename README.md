@@ -104,6 +104,5 @@ Suggested final image:
 **Data Analysis:** Python • SQL • Advanced Excel 
 
 
-TRADUCE ESTO, PARA MI READ ME EN ESPAÑOL, PERO NO LE AGREGUES COSAS RARAS
 
 
